@@ -6,7 +6,7 @@
   <link href="http://lucky_minx.com/atom.xml" rel="self"/>
   
   <link href="http://lucky_minx.com/"/>
-  <updated>2023-05-21T10:00:21.844Z</updated>
+  <updated>2023-05-21T12:27:52.980Z</updated>
   <id>http://lucky_minx.com/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>尝试上传blog</title>
+    <link href="http://lucky_minx.com/2023/05/21/test/%E5%B0%9D%E8%AF%95%E4%B8%8A%E4%BC%A0blog/"/>
+    <id>http://lucky_minx.com/2023/05/21/test/%E5%B0%9D%E8%AF%95%E4%B8%8A%E4%BC%A0blog/</id>
+    <published>2023-05-21T12:26:32.000Z</published>
+    <updated>2023-05-21T12:27:52.980Z</updated>
+    
+    <content type="html"><![CDATA[<p>excerpt:<br>top_img:<br>cover: </p><h1 id="试一下能不能上去"><a href="#试一下能不能上去" class="headerlink" title="试一下能不能上去"></a>试一下能不能上去</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;excerpt:&lt;br&gt;top_img:&lt;br&gt;cover: &lt;/p&gt;
+&lt;h1 id=&quot;试一下能不能上去&quot;&gt;&lt;a href=&quot;#试一下能不能上去&quot; class=&quot;headerlink&quot; title=&quot;试一下能不能上去&quot;&gt;&lt;/a&gt;试一下能不能上去&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    <category term="test" scheme="http://lucky_minx.com/categories/test/"/>
+    
+    <category term="blog" scheme="http://lucky_minx.com/categories/test/blog/"/>
+    
+    
+    <category term="test" scheme="http://lucky_minx.com/tags/test/"/>
+    
+    <category term="blog" scheme="http://lucky_minx.com/tags/blog/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

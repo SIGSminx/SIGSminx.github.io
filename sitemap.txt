@@ -1,7 +1,12 @@
-http://lucky_minx.com/2023/05/21/test/%E5%B0%9D%E8%AF%95%E4%B8%8A%E4%BC%A0blog/
+http://lucky_minx.com/2023/05/21/test/%E6%B5%8B%E8%AF%95blog2/
+http://lucky_minx.com/2023/05/21/test/test-blog/
 http://lucky_minx.com/2023/05/21/hello-world/
 http://lucky_minx.com/
 http://lucky_minx.com/tags/test/
 http://lucky_minx.com/tags/blog/
+http://lucky_minx.com/tags/mac/
 http://lucky_minx.com/categories/test/
 http://lucky_minx.com/categories/test/blog/
+http://lucky_minx.com/categories/mac/
+http://lucky_minx.com/categories/mac/blog/
+http://lucky_minx.com/categories/mac/blog/test/

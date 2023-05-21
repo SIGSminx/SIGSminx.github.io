@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://lucky_minx.com/2023/05/21/test/%E5%B0%9D%E8%AF%95%E4%B8%8A%E4%BC%A0blog/</loc>
+    <loc>http://lucky_minx.com/2023/05/21/test/%E6%B5%8B%E8%AF%95blog2/</loc>
+    
+    <lastmod>2023-05-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://lucky_minx.com/2023/05/21/test/test-blog/</loc>
     
     <lastmod>2023-05-21</lastmod>
     
@@ -42,6 +51,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://lucky_minx.com/tags/mac/</loc>
+    <lastmod>2023-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -53,6 +69,27 @@
   
   <url>
     <loc>http://lucky_minx.com/categories/test/blog/</loc>
+    <lastmod>2023-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://lucky_minx.com/categories/mac/</loc>
+    <lastmod>2023-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://lucky_minx.com/categories/mac/blog/</loc>
+    <lastmod>2023-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://lucky_minx.com/categories/mac/blog/test/</loc>
     <lastmod>2023-05-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

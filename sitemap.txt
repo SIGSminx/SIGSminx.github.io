@@ -13,7 +13,7 @@ http://lucky_minx.com/tags/test/
 http://lucky_minx.com/tags/blog/
 http://lucky_minx.com/tags/mac/
 http://lucky_minx.com/categories/test/
-http://lucky_minx.com/categories/test/blog/
 http://lucky_minx.com/categories/mac/
+http://lucky_minx.com/categories/test/blog/
 http://lucky_minx.com/categories/mac/blog/
 http://lucky_minx.com/categories/mac/blog/test/

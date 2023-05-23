@@ -37,11 +37,11 @@
     <category term="test" scheme="http://lucky_minx.com/categories/mac/blog/test/"/>
     
     
-    <category term="test" scheme="http://lucky_minx.com/tags/test/"/>
+    <category term="mac" scheme="http://lucky_minx.com/tags/mac/"/>
     
     <category term="blog" scheme="http://lucky_minx.com/tags/blog/"/>
     
-    <category term="mac" scheme="http://lucky_minx.com/tags/mac/"/>
+    <category term="test" scheme="http://lucky_minx.com/tags/test/"/>
     
   </entry>
   
@@ -67,9 +67,9 @@
     <category term="blog" scheme="http://lucky_minx.com/categories/test/blog/"/>
     
     
-    <category term="test" scheme="http://lucky_minx.com/tags/test/"/>
-    
     <category term="blog" scheme="http://lucky_minx.com/tags/blog/"/>
+    
+    <category term="test" scheme="http://lucky_minx.com/tags/test/"/>
     
   </entry>
   

@@ -94,7 +94,7 @@
 
   <url>
     <loc>http://lucky_minx.com/</loc>
-    <lastmod>2023-05-25</lastmod>
+    <lastmod>2023-05-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,21 +102,21 @@
   
   <url>
     <loc>http://lucky_minx.com/tags/test/</loc>
-    <lastmod>2023-05-25</lastmod>
+    <lastmod>2023-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lucky_minx.com/tags/blog/</loc>
-    <lastmod>2023-05-25</lastmod>
+    <lastmod>2023-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lucky_minx.com/tags/mac/</loc>
-    <lastmod>2023-05-25</lastmod>
+    <lastmod>2023-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -125,35 +125,35 @@
   
   <url>
     <loc>http://lucky_minx.com/categories/test/</loc>
-    <lastmod>2023-05-25</lastmod>
+    <lastmod>2023-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lucky_minx.com/categories/mac/</loc>
-    <lastmod>2023-05-25</lastmod>
+    <lastmod>2023-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lucky_minx.com/categories/test/blog/</loc>
-    <lastmod>2023-05-25</lastmod>
+    <lastmod>2023-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lucky_minx.com/categories/mac/blog/</loc>
-    <lastmod>2023-05-25</lastmod>
+    <lastmod>2023-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lucky_minx.com/categories/mac/blog/test/</loc>
-    <lastmod>2023-05-25</lastmod>
+    <lastmod>2023-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

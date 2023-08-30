@@ -1,3 +1,5 @@
+http://lucky_minx.com/2023/08/12/%E7%94%9F%E6%B4%BB/%E6%97%85%E6%B8%B8/%E6%BE%B3%E9%97%A8%E6%94%BB%E7%95%A5/
+http://lucky_minx.com/2023/08/25/test/testintest/testblog/
 http://lucky_minx.com/gallery/index.html
 http://lucky_minx.com/diary/index.html
 http://lucky_minx.com/categories/index.html
@@ -11,9 +13,17 @@ http://lucky_minx.com/tags/index.html
 http://lucky_minx.com/
 http://lucky_minx.com/tags/test/
 http://lucky_minx.com/tags/blog/
+http://lucky_minx.com/tags/test1/
+http://lucky_minx.com/tags/test2/
 http://lucky_minx.com/tags/mac/
+http://lucky_minx.com/tags/Life/
+http://lucky_minx.com/tags/travel/
+http://lucky_minx.com/tags/Guide/
 http://lucky_minx.com/categories/test/
 http://lucky_minx.com/categories/mac/
 http://lucky_minx.com/categories/test/blog/
+http://lucky_minx.com/categories/test/testintest/
 http://lucky_minx.com/categories/mac/blog/
 http://lucky_minx.com/categories/mac/blog/test/
+http://lucky_minx.com/categories/Life/
+http://lucky_minx.com/categories/Life/travel/

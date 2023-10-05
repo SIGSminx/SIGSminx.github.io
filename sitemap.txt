@@ -16,8 +16,8 @@ http://lucky_minx.com/tags/Life/
 http://lucky_minx.com/tags/travel/
 http://lucky_minx.com/tags/Guide/
 http://lucky_minx.com/categories/%E5%AE%9E%E9%AA%8C/
-http://lucky_minx.com/categories/Life/
 http://lucky_minx.com/categories/tech/
+http://lucky_minx.com/categories/Life/
 http://lucky_minx.com/categories/%E5%AE%9E%E9%AA%8C/%E6%95%88%E7%8E%87/
-http://lucky_minx.com/categories/Life/travel/
 http://lucky_minx.com/categories/tech/obsidian-tech-obsidian/
+http://lucky_minx.com/categories/Life/travel/

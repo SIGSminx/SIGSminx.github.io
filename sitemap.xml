@@ -112,64 +112,64 @@
 
   <url>
     <loc>http://lucky_minx.com/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://lucky_minx.com/tags/%E5%AE%9E%E9%AA%8C/</loc>
-    <lastmod>2023-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://lucky_minx.com/tags/%E6%95%88%E7%8E%87/</loc>
-    <lastmod>2023-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://lucky_minx.com/tags/Life/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lucky_minx.com/tags/travel/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lucky_minx.com/tags/Guide/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://lucky_minx.com/tags/%E5%AE%9E%E9%AA%8C/</loc>
+    <lastmod>2023-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://lucky_minx.com/tags/%E6%95%88%E7%8E%87/</loc>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lucky_minx.com/tags/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lucky_minx.com/tags/%E6%97%85%E6%B8%B8/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lucky_minx.com/tags/%E6%B7%B1%E5%9C%B3/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -178,63 +178,63 @@
   
   <url>
     <loc>http://lucky_minx.com/categories/tech/</loc>
-    <lastmod>2023-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://lucky_minx.com/categories/%E5%AE%9E%E9%AA%8C/</loc>
-    <lastmod>2023-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://lucky_minx.com/categories/tech/obsidian-tech-obsidian/</loc>
-    <lastmod>2023-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://lucky_minx.com/categories/%E5%AE%9E%E9%AA%8C/%E6%95%88%E7%8E%87/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lucky_minx.com/categories/Life/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://lucky_minx.com/categories/%E5%AE%9E%E9%AA%8C/</loc>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lucky_minx.com/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://lucky_minx.com/categories/tech/obsidian-tech-obsidian/</loc>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lucky_minx.com/categories/Life/travel/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://lucky_minx.com/categories/%E5%AE%9E%E9%AA%8C/%E6%95%88%E7%8E%87/</loc>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lucky_minx.com/categories/%E7%94%9F%E6%B4%BB/%E6%97%85%E6%B8%B8/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://lucky_minx.com/categories/%E7%94%9F%E6%B4%BB/%E6%97%85%E6%B8%B8/%E6%B7%B1%E5%9C%B3/</loc>
-    <lastmod>2023-10-05</lastmod>
+    <lastmod>2023-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
